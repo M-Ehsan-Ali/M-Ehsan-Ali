@@ -14,4 +14,4 @@ Welcome to my GitHub profile! I'm passionate about web development, particularly
 
 Feel free to reach out if you have any questions or suggestions or want to say hi! Let's connect and learn from each other.
 
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/ehsan-ali-135291120/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/ehsan-ali-135291120/)
