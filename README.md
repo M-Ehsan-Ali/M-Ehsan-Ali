@@ -17,6 +17,7 @@ Tools: Docker, Netlify, GitHub, Postman
 
 Interests: Web development, open-source contributions, and collaborating on innovative projects.
 
+You can reach me via email at [mrehsan51@gmail.com](mailto:mrehsan51@gmail.com).
 
 <h2>🌟 Featured Projects</h2>
 
