@@ -5,13 +5,18 @@ Welcome to my GitHub profile! I'm a passionate ReactJS Developer with 4 years of
 <h2>🚀 About Me</h2>
 Current Focus: Diving deep into the MERN stack and continuously exploring new technologies to enhance my skills.
 
-<h3>Skills & Technologies:</h3>
+<h4>Skills & Technologies:</h4>
 
 Frontend: ReactJS, Next.js, Tailwind CSS, Material UI
+
 Backend: Node.js, Express.js, Redux, Redux-Saga
+
 Database: MongoDB, MySQL
+
 Tools: Docker, Netlify, GitHub, Postman
+
 Interests: Web development, open-source contributions, and collaborating on innovative projects.
+
 
 <h2>🌟 Featured Projects</h2>
 Here are some of the exciting projects I’ve been working on:
