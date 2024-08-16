@@ -33,7 +33,7 @@ Here are some of the exciting projects I’ve been working on:
 <a href="https://www.pickletour.com/" target="_blank">PickleTour LLC</a>: A comprehensive tournament management system for organizing pickleball games, complete with real-time score management.
 
 <h2>🤝 Let's Connect</h2>
-I'm always excited to collaborate on new projects, discuss technology trends, or simply connect with fellow developers. Don’t hesitate to reach out if you have questions or opportunities!
 
+I'm always excited to collaborate on new projects, discuss technology trends, or simply connect with fellow developers. Don’t hesitate to reach out if you have questions or opportunities!
 
 <a href="https://www.linkedin.com/in/ehsan-ali-135291120/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn"></a>
