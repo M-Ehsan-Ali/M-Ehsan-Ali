@@ -22,9 +22,13 @@ Interests: Web development, open-source contributions, and collaborating on inno
 Here are some of the exciting projects I’ve been working on:
 
 <a href="https://hcc-dev.peeredge.com/auth/login" target="_blank">PeerEdge</a>: A comprehensive cloud-based switch designed to enhance call connectivity with real-time analytics and unified control.
+
 <a href="https://prov-dev.peeredge.com/" target="_blank">Provisioning</a>: A cutting-edge platform that bridges legacy communications with future technologies, offering extensive admin control and real-time analytics.
+
 <a href="https://www.stretto.com/" target="_blank">Stretto</a>: A specialized digital solution for managing bankruptcy cases, focusing on precision, security, and efficient case handling.
+
 <a href="https://megamind-admin.netlify.app/" target="blank">MegaMind Admin Panel</a>: An intuitive admin panel for home tuition management, featuring job tracking, billing, and communication tools.
+
 <a href="https://www.pickletour.com/" target="_blank">PickleTour LLC</a>: A comprehensive tournament management system for organizing pickleball games, complete with real-time score management.
 
 <h2>🤝 Let's Connect</h2>
