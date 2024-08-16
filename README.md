@@ -20,8 +20,7 @@ Interests: Web development, open-source contributions, and collaborating on inno
 
 <h2>🌟 Featured Projects</h2>
 Here are some of the exciting projects I’ve been working on:
-
-
+&nbsp;
 <a href="https://hcc-dev.peeredge.com/auth/login" target="_blank">PeerEdge</a>: A comprehensive cloud-based switch designed to enhance call connectivity with real-time analytics and unified control.
 
 <a href="https://prov-dev.peeredge.com/" target="_blank">Provisioning</a>: A cutting-edge platform that bridges legacy communications with future technologies, offering extensive admin control and real-time analytics.
